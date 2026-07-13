@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/ros/XiaoZhi-AI/build/CMakeFiles/bootloader
+/home/ros/XiaoZhi-AI/build/CMakeFiles/bootloader.rule
+/home/ros/XiaoZhi-AI/build/CMakeFiles/bootloader-complete.rule
+/home/ros/XiaoZhi-AI/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/ros/XiaoZhi-AI/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/ros/XiaoZhi-AI/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/ros/XiaoZhi-AI/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/ros/XiaoZhi-AI/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/ros/XiaoZhi-AI/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/ros/XiaoZhi-AI/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
